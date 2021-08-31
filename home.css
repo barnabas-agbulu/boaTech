@@ -33,7 +33,7 @@ width: 100%;
     
 }
 .header a{
-    /* padding: 150px; */
+    padding: 150px;
     justify-contents:space-between;
 }
 .text{
